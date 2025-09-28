@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Wiktor Radzikowski and i am from Poland<br><br>- 🔭 I’m a student in technical high school<br>- 📚 I'm currently learning everything regarding my current projects and anything that interests me<br>- ⚡ In my free time I work on my projects and play Factorio</p>
+<p align="left">I'm VV and i am from Poland<br><br>- 🔭 I’m a student in technical high school<br>- 📚 I'm currently learning everything regarding my current projects and anything that interests me<br>- ⚡ In my free time I work on my projects and play Factorio</p>
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=XxWilczUxX&theme=transparent" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=DoubleTheV&theme=transparent" alt="Streak" />
   <img src="https://github.com/XxWilczUxX/XxWilczUxX/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
