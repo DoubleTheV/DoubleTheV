@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm VV and i am from Poland<br><br>- 🔭 I’m a student in technical high school<br>- 📚 I'm currently learning everything regarding my current projects and anything that interests me<br>- ⚡ In my free time I work on my projects and play Factorio</p>
+<p align="left">I'm VV and i am from Poland<br><br>- 🔭 I just finished technical highschool with IT technician diploma<br>- 📚 I'm currently learning about anythin that interests me ranging from game dev, through software dev all the way to cybersecurity<br>- ⚡ In my free time I work on my projects and I broaden my knowledge</p>
 
 ###
 
@@ -46,6 +46,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
 </div>
 
 ###
